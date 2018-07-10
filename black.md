@@ -2,8 +2,11 @@
 
 - With milk
 - Without milk
+- Without sugar
+- With sugar
 
 ```
+boil H_2 O
 make tea
 ```
 
