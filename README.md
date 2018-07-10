@@ -2,7 +2,7 @@
 
 Demo repository
 
-We will collect tea recipes.
+We will collect various tea recipes.
 
 Tea:
 - black
