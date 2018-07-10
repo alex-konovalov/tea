@@ -10,7 +10,7 @@ boil H_2 O
 make tea
 ```
 
-or
+or use these commands:
   
 ```
 install hot-water
