@@ -3,12 +3,14 @@
 - With milk
 - Without milk
 
-    make tea
-    
-  or
+```
+make tea
+```
+
+or
   
-  ```
-  install hot-water
-  make tea
-  use cup
-  ```
+```
+install hot-water
+make tea
+use cup
+```
