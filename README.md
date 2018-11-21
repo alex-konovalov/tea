@@ -9,5 +9,6 @@ Tea:
 - green
 - red
 - white
+- karak
 
 Explain water temperature for different teas.
