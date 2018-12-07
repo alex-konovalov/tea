@@ -18,6 +18,8 @@ make tea
 use cup
 ```
 
+Let us put more text before the end of the file.
+
 #####################
 #End of file comments
 ##
