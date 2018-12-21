@@ -19,5 +19,5 @@ use cup
 ```
 
 Let us put more text before the end of the file.
-Now I want to see how to to use the "suggested changes" feature.
+ Now I want to see how to use the "suggested changes" feature.
 
